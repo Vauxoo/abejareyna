@@ -1,0 +1,4 @@
+[submodule "abejareyna"]
+	path = abejareyna
+	url = git@git.vauxoo.com:vauxoo/abejareyna.git
+	branch = 15.0
